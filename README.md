@@ -1,5 +1,22 @@
-### Welcome to my codes
-You can chek my [porfolio](https://freddygutierrez.netlify.app)
+# Welcome to my codes
+## Im Javascript Developer
+You can check my [porfolio](https://freddygutierrez.netlify.app)
+
+#### My `Skills`
+* HTML
+* CSS
+* JAVASCRIPT
+* BOOTSTRAP
+* MATERIALIZE
+* SASS
+* REACT JS
+* NODE JS
+* NPM
+* MONGODB
+* FIREBASE
+
+## MY `STATS`
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyGames69)](https://github.com/FreddyGames69/github-readme-stats)
 <!--
 **FreddyGames69/FreddyGames69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
