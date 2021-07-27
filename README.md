@@ -2,7 +2,7 @@
 ## Im Javascript Developer
 You can check my [porfolio](https://freddygutierrez.netlify.app)
 
-#### My `Skills`
+#### My `Skills` :zap:
 * HTML
 * CSS
 * JAVASCRIPT
