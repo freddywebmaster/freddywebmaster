@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to my codes
+You can chek my [porfolio](https://freddygutierrez.netlify.app)
 <!--
 **FreddyGames69/FreddyGames69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
