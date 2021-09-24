@@ -2,10 +2,10 @@
 ## Im a Creative Web Developer
 You can check my [porfolio](https://freddygutierrez.netlify.app)
 
-#### My `Skills` :zap:
+# My `Skills` :zap:
 ## I have  knowledge in the nexts technologies
 HTML, CSS3, Javascript, Python & Typescript
-## And i can use the nexts tools or libraries
+## And i can use the nexts tools, libraries or frameworks
 Bootstrap, Materialize, Sass, Npm, NodeJs, Flask, Django, ReactJs, NextJs, Gatsby, Firebase, MongoDb and many more...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyGames69&hide=html,css,php)](https://github.com/anuraghazra/github-readme-stats)
