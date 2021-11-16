@@ -4,9 +4,9 @@ You can check my [porfolio](https://freddygutierrez.netlify.app)
 
 # My `Skills` :zap:
 ## I have  knowledge in the nexts technologies
-HTML, CSS3, Javascript, Python & Typescript
+HTML, CSS3, Javascript & Typescript
 ## And i can use the nexts tools, libraries or frameworks
-Bootstrap, Materialize, Sass, Npm, NodeJs, Flask, Django, ReactJs, NextJs, Gatsby, Firebase, MongoDb and many more...
+Bootstrap, Materialize, Sass, Npm, NodeJs, ReactJs, NextJs, Firebase, MongoDb.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyGames69&hide=html,css,php)](https://github.com/anuraghazra/github-readme-stats)
 <!--
