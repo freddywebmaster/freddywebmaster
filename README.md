@@ -1,14 +1,25 @@
 # Welcome to my github profile
 ## Im a Creative Web Developer
-You can check my [porfolio](https://freddygutierrez.netlify.app)
+You can visit my [PORTFOLIO](https://freddygutierrez.netlify.app)
 
 # My `Skills` :zap:
 ## I have  knowledge in the nexts Programming languages
-HTML, CSS3, Javascript & Typescript
-## And i can use the nexts tools, libraries or frameworks
-Bootstrap, Materialize, Sass, Tailwind <3, Npm, NodeJs, ReactJs, NextJs, Firebase, MongoDb.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyGames69&hide=html,css,php)](https://github.com/anuraghazra/github-readme-stats)
+- Javascript
+- Typescript
+
+## And i can use the nexts tools, libraries or frameworks
+- Bootstrap 😄
+- Materialize ☺
+- Sass 😋
+- Tailwind 🥰😍
+- Npm 😍
+- NodeJs 😊
+- ReactJs ❤
+- NextJs 🥰
+- Redux 🙈
+- Firebase 🤩
+- MongoDB 😛
 <!--
 **FreddyGames69/FreddyGames69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
