@@ -1,5 +1,4 @@
-# Welcome to my github profile
-## Im a Creative Web Developer
+# Im a Creative Web Developer
 You can visit my [PORTFOLIO](https://freddygutierrez.netlify.app)
 
 # My `Skills` :zap:
@@ -10,7 +9,6 @@ You can visit my [PORTFOLIO](https://freddygutierrez.netlify.app)
 
 ## And i can use the nexts tools, libraries or frameworks
 - Bootstrap 😄
-- Materialize ☺
 - Sass 😋
 - Tailwind 🥰😍
 - Npm 😍
@@ -20,6 +18,13 @@ You can visit my [PORTFOLIO](https://freddygutierrez.netlify.app)
 - Redux 🙈
 - Firebase 🤩
 - MongoDB 😛
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddyGames69&show_icons=true&count_private=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyGames69&hide=html,css,shell,scss)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FreddyGames69&repo=EasyFirebase)](https://github.com/FreddyGames69/EasyFirebase)
 <!--
 **FreddyGames69/FreddyGames69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
