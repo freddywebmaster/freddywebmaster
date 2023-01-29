@@ -25,7 +25,7 @@ You can visit my [PORTFOLIO](https://freddywebmaster.tk)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/freddywebmaster/count.svg" />
 </p>
 <!--
 **FreddyGames69/FreddyGames69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
